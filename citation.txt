@@ -1,0 +1,10 @@
+@inproceedings{REPO-377,
+    author = "Yan, Mingyu and Deng, Lei and Hu, Xing and Liang, Ling and Feng, Yujing and Ye, Xiaochun and Zhang, Zhimin and Fan, Dongrui and Xie, Yuan",
+    booktitle = "2020 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+    doi = "10.1109/HPCA47549.2020.00012",
+    number = "",
+    pages = "15-29",
+    title = "{HyGCN: A GCN Accelerator with Hybrid Architecture}",
+    volume = "",
+    year = "2020"
+}
